@@ -1,9 +1,12 @@
 # Development Resources
 
+![Build Status](https://github.com/ScorpyG/dev-resources/workflows/validate-markdown/badge.svg) 
+
 These are just a collection of resources I found useful throughout my journey learning and working as front-end developer.
 - These resources must have a hyperlink attached to it.
 - The resource / document should be added in the appropriate category.
 - Should not be duplicated.
+
 ---
 ## Front-end Frameworks
 - [React.js](https://react.dev/) - Component based framework for building UI for web-dev.  
@@ -29,6 +32,19 @@ These are just a collection of resources I found useful throughout my journey le
 
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapid UI development.  
 ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
+
+---
+## API Specification
+### REST API
+- [OpenAPI-Specification](https://spec.openapis.org/oas/v3.1.0)
+- [Swagger](https://swagger.io/)
+
+### GraphQL
+- [GraphQL](https://graphql.org/) - Query language for API, rely on type system define by your data.  
+![](https://img.shields.io/github/stars/graphql?style=social&label=Star)  
+
+
+
 ---
 ## Other useful tools and resources 
 - [Color name](https://www.color-name.com/) - Look up color names, this level up your naming-color-variable game.  
@@ -41,7 +57,18 @@ These are just a collection of resources I found useful throughout my journey le
 
 - [Material Design](https://m3.material.io/foundations) - Google documents for material design and UI design.  
 ![](https://img.shields.io/github/stars/material-components?style=social&label=Star)
----
-## Writing documents
-- [ Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Quick reference to the Markdown syntax.  
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Write meaningful commit message.  
+![](https://img.shields.io/github/stars/conventional-commits/conventionalcommits.org?style=social&label=Star)  
+
+- [Markdown Live Preview](https://markdownlivepreview.com/) - A web tool to preview Markdown formatted text.   
+![](https://img.shields.io/github/stars/tanabe/markdown-live-preview?style=social&label=Star)  
+
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Quick reference to the Markdown syntax.  
 ![](https://img.shields.io/github/stars/mattcone/markdown-guide?style=social&label=Star)  
+
+## Cool stuff I guess
+- [Github badges](https://shields.io/#your-badge) - Adding badges to your repositories.  
+![](https://img.shields.io/github/stars/badges/shields?style=social&label=Star) 
+- [Badgen](https://badgen.net) - Fast badge generating service  
+![](https://badgen.net/badge/color/green/green) ![](https://badgen.net/badge/color/red/red) ![](https://badgen.net/badge/icon/github?icon=github&label)
