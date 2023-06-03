@@ -1,6 +1,6 @@
 # Development Resources
 
-![Build Status](https://github.com/ScorpyG/dev-resources/workflows/validate-markdown/badge.svg) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
 
 These are just a collection of resources I found useful throughout my journey learning and working as front-end developer.
 - These resources must have a hyperlink attached to it.
@@ -42,11 +42,13 @@ These are just a collection of resources I found useful throughout my journey le
 ### GraphQL
 - [GraphQL](https://graphql.org/) - Query language for API, rely on type system define by your data.  
 ![](https://img.shields.io/github/stars/graphql?style=social&label=Star)  
-
+- [Apollo GraphQL](https://www.apollographql.com/docs/) - Platform for building a supergraph.
 
 
 ---
 ## Other useful tools and resources 
+- [Dummy Email](https://temp-mail.org/en/) - Disposable temporary email you can use for testing. 
+
 - [Color name](https://www.color-name.com/) - Look up color names, this level up your naming-color-variable game.  
 
 - [Coolors](https://coolors.co/) - Generate color palettes for your next project.  
